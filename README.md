@@ -1,2 +1,3 @@
-# Deep-Learning
-Deep Learning study
+# Yolo5를 이용한 이미지 속 객체인식 딥러닝 모델
+
+인프런 '[인공지능 컴퓨터비전] 20장의 사진으로 딥러닝 모델 만들기' 강의 수강
